@@ -1,0 +1,1 @@
+{"version":3,"file":"snippets.js","sourceRoot":"","sources":["../../src/utils/snippets.ts"],"names":[],"mappings":";AAAA,WAAW;;;AAEX,MAAM,cAAc,GAAG,GAAG,EAAE;IAC1B,OAAO;CACR,CAAA;AACD,CAAC,CAAC;AAaO,wCAAc;AAXvB,MAAM,mBAAmB,GAAG,CAAC,aAAqB,EAAE,UAAkB,EAAE,EAAE;IACxE,OAAO;wBACe,aAAa;;;;0BAIX,UAAU;;GAEjC,CAAA;AACH,CAAC,CAAC;AAEuB,kDAAmB"}
