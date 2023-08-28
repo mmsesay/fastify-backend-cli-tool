@@ -1,5 +1,5 @@
 {
-  "name": "backend-cli",
+  "name": "custom-fastify-cli",
   "version": "0.0.1",
   "description": "This is a cli tool to help fasttrack our teams productivity",
   "main": "index.js",
@@ -11,13 +11,11 @@
     "backend": "./dist/index.js"
   },
   "keywords": [],
-  "contributors": [
-    {
-      "name": "Muhammad Sesay",
-      "email": "contact@maej.dev",
-      "url": "https://maej.dev"
-    }
-  ],
+  "author": {
+    "name": "Muhammad Sesay",
+    "email": "contact@maej.dev",
+    "url": "https://maej.dev"
+  },
   "license": "ISC",
   "devDependencies": {
     "@types/figlet": "^1.5.6",
